@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:examen1330/pagina_uno.dart';
 import 'package:examen1330/pagina_AnimatedIcon.dart';
 import 'package:examen1330/pagina_AnimatedSize.dart';
-import 'package:examen1330/pagina_CloseButton.dart';
+import 'package:examen1330/pagina_ClipRRect.dart';
 import 'package:examen1330/pagina_DataTable.dart';
 import 'package:examen1330/pagina_Expanded.dart';
 
