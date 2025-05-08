@@ -1,4 +1,5 @@
 imagenes 
+
 pantalla 3
 -![Captura 4](https://github.com/user-attachments/assets/a22cfb92-b2fe-4a2b-ad4f-d64ab5c75e0e)
 pantalla principal
